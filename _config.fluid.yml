@@ -2,3 +2,51 @@ index:
   banner_img: "https://raw.githubusercontent.com/NumoraX/piclist/master/hexo/【哲风壁纸】乐器-书架-二次元_1771272504713.png"
   banner_img_height: 100
   banner_mask_alpha: 0.3
+
+archive:
+  banner_img: "https://raw.githubusercontent.com/NumoraX/piclist/master/hexo/【哲风壁纸】乐器-书架-二次元_1771272504713.png"
+
+category:
+  banner_img: "https://raw.githubusercontent.com/NumoraX/piclist/master/hexo/【哲风壁纸】乐器-书架-二次元_1771272504713.png"
+
+tag:
+  banner_img: "https://raw.githubusercontent.com/NumoraX/piclist/master/hexo/【哲风壁纸】乐器-书架-二次元_1771272504713.png"
+
+about:
+  banner_img: "https://raw.githubusercontent.com/NumoraX/piclist/master/hexo/【哲风壁纸】乐器-书架-二次元_1771272504713.png"
+  name: "神不在数数"
+
+page:
+  banner_img: "https://raw.githubusercontent.com/NumoraX/piclist/master/hexo/【哲风壁纸】乐器-书架-二次元_1771272504713.png"
+
+links:
+  banner_img: "https://raw.githubusercontent.com/NumoraX/piclist/master/hexo/【哲风壁纸】乐器-书架-二次元_1771272504713.png"
+  items:
+    - {
+      title: "神不在数数 Blog",
+      intro: "主题博客",
+      link: "https://hexo.fluid-dev.com/",
+      avatar: "/img/favicon.png"
+    }
+    - {
+      title: "神不在数数 Docs",
+      intro: "主题使用指南",
+      link: "https://hexo.fluid-dev.com/docs/",
+      avatar: "/img/favicon.png"
+    }
+    - {
+      title: "神不在数数 Repo",
+      intro: "主题 GitHub 仓库",
+      link: "https://github.com/fluid-dev/hexo-theme-fluid",
+      avatar: "/img/favicon.png"
+    }
+
+navbar:
+  blog_title: "神不在数数"
+
+footer:
+  content: '
+    <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span></a>
+    <i class="iconfont icon-love"></i>
+    <span>神不在数数</span>
+  '
